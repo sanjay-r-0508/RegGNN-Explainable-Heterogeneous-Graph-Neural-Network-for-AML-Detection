@@ -1,4 +1,4 @@
-# Explainable Heterogeneous Graph Neural Network (XAI-HGNN)
+# RegGNN - Explainable Heterogeneous Graph Neural Network (XAI-HGNN)
 
 An end-to-end prototype for **explainable customer risk prediction** using a **heterogeneous graph neural network** built with PyTorch Geometric.
 
