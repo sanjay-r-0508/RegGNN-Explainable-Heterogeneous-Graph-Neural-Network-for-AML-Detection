@@ -1,4 +1,4 @@
-# RegGNN - Explainable Heterogeneous Graph Neural Network (XAI-HGNN)
+# RegGNN - Heterogeneous Graph Neural Network for AML Detection via Regulatory Signal Integration
 
 An end-to-end prototype for **explainable customer risk prediction** using a **heterogeneous graph neural network** built with PyTorch Geometric.
 
