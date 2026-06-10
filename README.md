@@ -153,14 +153,6 @@ Synthetic AML Dataset
 | Transactions | 500,000 |
 | Regulatory Complaints | 2,500 |
 
-Dataset Duration:
-24 Months
-
-Training Period:
-18 Months
-
-Testing Period:
-6 Months
 
 ---
 
