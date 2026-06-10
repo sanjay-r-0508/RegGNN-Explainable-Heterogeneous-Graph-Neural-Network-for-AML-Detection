@@ -353,9 +353,9 @@ AI & Data Science Researcher
 
 Email: sanjayrao0508@gmail.com
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: www.linkedin.com/in/sanjayr0508
 
-GitHub: [Your GitHub]
+GitHub: https://github.com/sanjay-r-0508
 
 ---
 
